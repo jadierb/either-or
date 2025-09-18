@@ -8,9 +8,11 @@ Build a simple and interactive "Heads or Tails" type game using HTML, CSS, and J
 
 ## 📖 Description
 
-The "Heads or Tails" type project is a the user can click a button to flip a produce a random choice. The result is determined randomly using JavaScript logic and displayed on the screen along with updated counts of the selection. Use images to display the chosen choice as well as the index of when it was selected.
+The "Heads or Tails" type project is a the user can click a button to flip a produce a random choice. The result is determined randomly using JavaScript logic and di..splayed on the screen along with updated counts of the selection. Use images to display the chosen choice as well as the index of when it was selected.
 
 This project serves as a review of front-end development skills such as DOM manipulation, randomness, and basic event handling.
+
+Preview the demo of the web app [Demo Page](https://jsbin.com/sawuxobawe/1/edit?output)
 
 ## Selections
 
@@ -47,7 +49,7 @@ To fully understand and contribute to this project, you should be familiar with 
 - `Math.random()` – to generate a random number for the coin flip.
 - `Math.floor()` – to round the random number to 0 or 1.
 - `addEventListener()` – for handling user interaction.
-- conditionals
+- `if/if-else` - conditionals
 - **Functions** – to organize the logic of the game into reusable blocks.
 - **Iterator / Loop** – for potential features like multiple flips or animations.
 
